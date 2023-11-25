@@ -15,13 +15,16 @@
     <img src="https://komarev.com/ghpvc/?username=zexfolloff&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :woman_technologist: Информация обо мне:
-- 🆕 Начинающий программист и разработчик приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
-- :mailbox: Связаться со мной: [![Telegram](https://img.shields.io/badge/-@wajiosom-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@wajiosom)
+### 👩‍💻: Информация обо мне:
+- 🆕 Начинающий программист и разработчик приложений на JPHP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
+- 📫 Связаться со мной: [![Telegram](https://img.shields.io/badge/-@wajiosom-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@wajiosom)
 
-### :hammer_and_wrench: Какие языки программирования я знаю:
+### 🛠️ Языки программирования который я изучаю:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title=HTML5 alt="HTML5" width="40"
+height="40"/>&nbsp;
   </div>
 
-### :fire: Моя Статистика:
+### 🔥: Статистика профиля:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zexfolloff&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zexfolloff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
