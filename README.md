@@ -23,6 +23,9 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title=HTML5 alt="HTML5" width="40"
 height="40"/>&nbsp;
+  <img src="" title="JPHP" alt="JPHP" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   </div>
 
 ### 🔥: Статистика профиля:
