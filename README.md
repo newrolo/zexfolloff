@@ -27,6 +27,10 @@ height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   </div>
 
+<h2>🎶 SoundCloud Now Playing
+</br>
+<a href="--"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="SoundCloud Now Playing" ></a>
+
 ### 🔥: Статистика профиля:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zexfolloff&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zexfolloff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
