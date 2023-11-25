@@ -29,7 +29,7 @@ height="40"/>&nbsp;
 
 <h2>🎶 SoundCloud Now Playing
 </br>
-<a href="--"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="SoundCloud Now Playing" ></a>
+<a href="https://m.soundcloud.com/ilya-romanov-238955966"><img src="" alt="SoundCloud Now Playing" ></a>
 
 ### 🔥: Статистика профиля:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zexfolloff&theme=dark&background=000000)](https://git.io/streak-stats)
