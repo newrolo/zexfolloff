@@ -14,3 +14,14 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=zexfolloff&style=flat-square&color=blue" alt=""/>
 </div>
+
+### :woman_technologist: Информация обо мне:
+- 🆕 Начинающий программист и разработчик приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
+- :mailbox: Связаться со мной: [![Telegram](https://img.shields.io/badge/-@wajiosom-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@wajiosom)
+
+### :hammer_and_wrench: Какие языки программирования я знаю:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  </div>
+
+### :fire: Моя Статистика:
