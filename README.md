@@ -15,22 +15,22 @@
     <img src="https://komarev.com/ghpvc/?username=zexfolloff&style=flat-square&color=blue" alt=""/>
 </div>
 
-### 👩‍💻: Информация обо мне:
-- 🆕 Начинающий программист и разработчик приложений на JPHP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
-- 📫 Связаться со мной: [![Telegram](https://img.shields.io/badge/-@wajiosom-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@wajiosom)
+## - language
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=lua,java,py,html)](https://skills.thijs.gg)
 
-### 🛠️ Языки программирования который я изучаю:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title=HTML5 alt="HTML5" width="40"
-height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-  </div>
+## - Service
+[![Services I know](https://skills.thijs.gg/icons?i=discord)](https://skills.thijs.gg)
 
-<h2>🎶 SoundCloud Now Playing
-</br>
-<a href="https://m.soundcloud.com/ilya-romanov-238955966"><img src="" alt="SoundCloud Now Playing" ></a>
+## - Software I use
+[![Software I use](https://skills.thijs.gg/icons?i=vscode,)](https://skills.thijs.gg)
 
-### 🔥: Статистика профиля:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zexfolloff&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zexfolloff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## - Github statistics
+![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
+
+## Discord Profile
+[![1
+## Links
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0MLA2P)
+
+[![Discord Shield](https://discordapp.com/api/guilds/847396393068265472/widget.png?style=shield)](https://discord.gg/fjgsry5hh9)
