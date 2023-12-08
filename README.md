@@ -26,7 +26,5 @@
 ![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
 
 
-## - Links
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0MLA2P)
-
-[![Discord Shield](https://discordapp.com/api/guilds/847396393068265472/widget.png?style=shield)](https://discord.gg/fjgsry5hh9)
+## - Discord
+[![Discord Shield](https://discordapp.com/api/guilds/847396393068265472/widget.png?style=shield)](https://discord.com/invite/xn5r7ZD5bm)
