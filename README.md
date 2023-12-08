@@ -22,5 +22,5 @@
 [![Software I use](https://skills.thijs.gg/icons?i=vscode)](https://skills.thijs.gg)
 
 ## - Github statistics
-[!(https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)]
-[!(https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)]
+![overview](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)
+![languages](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
