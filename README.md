@@ -16,15 +16,11 @@
 </div>
 
 ## - language
-[![Languages I know/work with](https://skills.thijs.gg/icons?i=html,py,javascript,lua)](https://skills.thijs.gg)
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=html,javascript,py,lua)](https://skills.thijs.gg)
 
 ## - Software I use
-[![Software I use](https://skills.thijs.gg/icons?i=vscode,)](https://skills.thijs.gg)
+[![Software I use](https://skills.thijs.gg/icons?i=vscode)](https://skills.thijs.gg)
 
 ## - Github statistics
-![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
-
-
-## - Discord
-[![Discord Shield](https://discordapp.com/api/guilds/847396393068265472/widget.png?style=shield)](https://discord.com/invite/xn5r7ZD5bm)
+[![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)]
+[![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)]
