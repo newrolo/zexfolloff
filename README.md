@@ -16,7 +16,7 @@
 </div>
 
 ## - language
-[![Languages I know/work with](https://skills.thijs.gg/icons?i=lua,java,py,html)](https://skills.thijs.gg)
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=lua,javascript,py,html)](https://skills.thijs.gg)
 
 ## - Service
 [![Services I know](https://skills.thijs.gg/icons?i=discord)](https://skills.thijs.gg)
@@ -28,9 +28,8 @@
 ![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zexfolloff/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
 
-## Discord Profile
-[![1
-## Links
+
+## - Links
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0MLA2P)
 
 [![Discord Shield](https://discordapp.com/api/guilds/847396393068265472/widget.png?style=shield)](https://discord.gg/fjgsry5hh9)
