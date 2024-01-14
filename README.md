@@ -16,7 +16,7 @@
 </div>
 
 ## - language
-[![Languages I know/work with](https://skills.thijs.gg/icons?i=html,javascript,json,py,lua)](https://skills.thijs.gg)
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=html,css,javascript,py,lua)](https://skills.thijs.gg)
 
 ## - Software I use
 [![Software I use](https://skills.thijs.gg/icons?i=vscode)](https://skills.thijs.gg)
