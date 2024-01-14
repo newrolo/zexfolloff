@@ -1,12 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div>
+  //
 </div>
 
 <div id="badges" align="center">
   <a href="https://discord.com/invite/xn5r7ZD5bm">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://t.me/tipeshild">
+  <a href="https://t.me/@negaom">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -16,7 +16,7 @@
 </div>
 
 ## - language
-[![Languages I know/work with](https://skills.thijs.gg/icons?i=html,javascript,py,lua)](https://skills.thijs.gg)
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=html,javascript,json,py,lua)](https://skills.thijs.gg)
 
 ## - Software I use
 [![Software I use](https://skills.thijs.gg/icons?i=vscode)](https://skills.thijs.gg)
