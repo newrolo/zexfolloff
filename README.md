@@ -15,9 +15,6 @@
     <img src="https://komarev.com/ghpvc/?username=zexfolloff&style=flat-square&color=blue" alt=""/>
 </div>
 
-## - about me
-### ов
-
 ## - language
 [![Languages I know/work with](https://skills.thijs.gg/icons?i=html,css,javascript,py,lua)](https://skills.thijs.gg)
 
